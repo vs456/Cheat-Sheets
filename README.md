@@ -9,3 +9,5 @@ Current Status:
 | Circular Singly Linked List | Done |
 | Recursion | Done |
 | Trees | WIP |
+| Sorting | WIP |
+| Searching | WIP |

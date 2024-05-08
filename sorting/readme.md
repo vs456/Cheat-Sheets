@@ -10,5 +10,6 @@ Below sorting algorithms can be used based the: stability, space and time effici
     ![Bucket Sort](images/bucket_sort.png)
 * ## Merge Sort
     ![Merge Sort](images/merge_sort.png)
-* Quick Sort
-* Heap Sort
+* ## Quick Sort
+
+* ## Heap Sort

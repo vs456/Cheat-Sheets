@@ -48,13 +48,15 @@ def partition_first(arr, left, right):
     i = left + 1
     j = right
 
-    while j > i:
-        while i < right and arr[i] >= pivot:
+    while i <= j:
+        while i <= right and arr[i] < pivot:
             i += 1
-        while j > left + 1 and arr[j] < pivot:
+        while j > left and arr[j] > pivot:
             j -= 1
-        if arr[i] > arr[j]:
+        if i <= j:
             arr[i], arr[j] = arr[j], arr[i]
+            # i += 1
+            # j -= 1
     arr[i], pivot = pivot, arr[i]
 
     return i

@@ -7,7 +7,9 @@ Current Status:
 |---------------------|--------|
 | Singly Linked List | Done |
 | Circular Singly Linked List | Done |
+| Stacks | Done |
+| Queue | WIP |
 | Recursion | Done |
 | Trees | WIP |
 | Sorting | WIP |
-| Searching | WIP |
+| Searching | Not Started |

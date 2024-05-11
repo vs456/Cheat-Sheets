@@ -1,15 +1,11 @@
-# dsa
-This repo contains the dsa questions based on this [Udemy course](https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/learn/lecture/22871307#overview)
+# Cheat Sheet for interviews
 
-Current Status:
-
-| Data Structure/Algo | Status |
-|---------------------|--------|
-| Singly Linked List | Done |
-| Circular Singly Linked List | Done |
-| Stacks | Done |
-| Queue | WIP |
-| Recursion | Done |
-| Trees | WIP |
-| Sorting | WIP |
-| Searching | Not Started |
+This is a cheat sheet document for interview. It has the following topics:
+1. Data Structures and Algorithms
+2. Flask
+3. Linux
+4. Shell Scripting
+5. Docker
+6. Kubernetes
+7. Ansible
+8. Terraform

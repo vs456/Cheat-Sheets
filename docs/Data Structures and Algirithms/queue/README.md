@@ -12,18 +12,18 @@ A queue in python can be implemented in following ways:
 
 * Create Queue
     This creates a new stack, in python it can be created using:
-    * [A python list without size limit](stack_list_unlimited.py)
-    * [A python list with size limit](stack_list_limited.py)
-    * [A linked list](stack_linked_list.py)
+    * [A python list without size limit](queue_list_unlimited.py)
+    * [A python list with size limit](queue_list_limited.py)
+    * [A linked list](queue_linked_list.py)
 * Enqueu
     This will add a new element into the queue.
 * Dequeue
     This will delete the first added element. Queue is always FIFO(First In First Out).
 * Peek
-    This will return the latest element added.
+    This will return the first element added.
 * isEmpty
-    Checks if there is atleast an element in the stack.
+    Checks if there is atleast an element in the queue.
 * isFull
     Checks if the stack is full, in case the stack is defined using arrays. In case of python lists, the size is unlimited.
 * Delete Queue
-    Deletes the entire stack.
+    Deletes the entire queue.

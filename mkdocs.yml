@@ -1,1 +1,42 @@
+nav: 
+  - Data Structures and Algorithms:
+    - Lists: 'Data Structures and Algirithms/lists/README.md'
+    - Tuples: 'Data Structures and Algirithms/tuples/README.md'
+    - Dictionaries: 'Data Structures and Algirithms/dictionary/README.md'
+    - Recursion: 'Data Structures and Algirithms/Recursion/README.md'
+    - Linked List: 'Data Structures and Algirithms/linked_lists/README.md'
+    - Stacks: 'Data Structures and Algirithms/stacks/README.md'
+    - Queues: 'Data Structures and Algirithms/queue/README.md'
+    - Trees: 'Data Structures and Algirithms/Trees/README.md'
+    - Sorting Algorithms: 'Data Structures and Algirithms/sorting/README.md'
+    - Searching Algorithms: 'Data Structures and Algirithms/searching/README.md'
+  - Flask: 'flask_api/README.md'
+
 site_name: Cheat Sheets by Vaibhav
+repo_url: 'https://github.com/vs456/Cheat-Sheets'
+theme: 
+  name: 'material'
+  palette: 
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to Dark mode
+      primary: 'green'
+      accent: amber
+    - scheme: slate
+      toggle:
+        icon: material/brightness-7
+        name: Switch to Normal mode
+      primary: 'indigo'
+      accent: lime
+  features:
+  - navigation.instant
+
+markdown_extensions: 
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - pymdownx.betterem
+  - toc:
+      permalink: True
+  - pymdownx.snippets

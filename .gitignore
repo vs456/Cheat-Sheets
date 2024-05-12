@@ -2,3 +2,4 @@
 .venv
 .idea
 temp.py
+__pycache__

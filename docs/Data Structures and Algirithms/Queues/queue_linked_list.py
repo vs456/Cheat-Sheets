@@ -57,7 +57,7 @@ class Queue:
     # Checks if the queue is empty
     def isEmpty(self):
 
-        if self.head is None:
+        if self.linkedlist.head is None:
             return True
         else:
             return False

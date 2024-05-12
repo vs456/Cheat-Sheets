@@ -3,13 +3,16 @@ This repo contains the dsa questions based on this [Udemy course](https://www.ud
 
 Current Status:
 
-| Data Structure/Algo | Status |
+| Data Structure/Algo | Status | Questions |
 |---------------------|--------|
-| Singly Linked List | Done |
-| Circular Singly Linked List | Done |
-| Stacks | Done |
-| Queue | WIP |
-| Recursion | Done |
-| Trees | WIP |
-| Sorting | WIP |
-| Searching | Not Started |
+| Lists | Done | Done |
+| Dictionary | Done | Done |
+| Tuples | Done | Done |
+| Singly Linked List | Done | Done |
+| Circular Singly Linked List | Done | Not Started |
+| Stacks | Done | Not Started |
+| Queue | Done | Not Started |
+| Recursion | Done | Done |
+| Trees | WIP | Not Started |
+| Sorting | WIP | Not Available |
+| Searching | Done | Not Available |

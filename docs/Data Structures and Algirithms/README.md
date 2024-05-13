@@ -4,7 +4,7 @@ This repo contains the dsa questions based on this [Udemy course](https://www.ud
 Current Status:
 
 | Data Structure/Algo | Status | Questions |
-|---------------------|--------|
+|---------------------|--------|-----------|
 | Lists | Done | Done |
 | Dictionary | Done | Done |
 | Tuples | Done | Done |

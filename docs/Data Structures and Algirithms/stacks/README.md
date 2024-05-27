@@ -2,6 +2,7 @@
 
 ## Methods of implementation
 A stack in python can be implemented in following ways:
+
 1. [A python list without size limit](stack_list_unlimited.py)
 2. [A python list with size limit](stack_list_limited.py)
 3. [A linked list](stack_linked_list.py)

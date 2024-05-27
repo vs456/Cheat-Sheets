@@ -11,6 +11,9 @@ nav:
     - Sorting Algorithms: 'Data Structures and Algirithms/sorting/README.md'
     - Searching Algorithms: 'Data Structures and Algirithms/searching/README.md'
   - Flask: 'flask_api/README.md'
+  - Shell Scripting: 'Shell Scripting/README.md'
+  - Ansible: 'Ansible/README.md'
+
 
 site_name: Cheat Sheets by Vaibhav
 repo_url: 'https://github.com/vs456/Cheat-Sheets'

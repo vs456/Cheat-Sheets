@@ -39,3 +39,6 @@ datacenter:
     network:
     webservers:
 ```
+
+# Ansible CLI Cheat Sheet
+https://docs.ansible.com/ansible/latest/command_guide/cheatsheet.html

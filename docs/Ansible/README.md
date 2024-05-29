@@ -1,3 +1,7 @@
+# [Datatypes and operations]
+
+[Various datatypes and operations can be viewed here](data_types.md)
+
 # Format of Ansible inventory file:
 
 ```yaml
